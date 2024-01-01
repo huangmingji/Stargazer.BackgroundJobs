@@ -1,0 +1,2 @@
+# Stargazer.BackgroundJobs
+一个基于DotNetCore的后台作业模块，提供ThreadingChannels、Quartz、Hangfire、RabbitMQ、Redis的实现
